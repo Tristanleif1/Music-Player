@@ -67,7 +67,7 @@ nav .circle{
     margin: 40px 0;
 }
 
-#progress:: -webkit-slider-thumb{
+#progress::-webkit-slider-thumb{
     -webkit-appearance: none;
     background: 30px;
     width: 30px;
