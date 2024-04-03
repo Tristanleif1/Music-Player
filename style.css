@@ -69,7 +69,7 @@ nav .circle{
 
 #progress::-webkit-slider-thumb{
     -webkit-appearance: none;
-    background: 30px;
+    background: #f53192;
     width: 30px;
     height: 30px;
     border-radius: 50%;
